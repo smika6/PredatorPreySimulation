@@ -1,0 +1,7 @@
+Simulation taken on 05/17/20 at 16:20:10 PM
+Simulation Prey Distribution: random
+Simulation Enviroment Complexity: moderate
+Simulation Time Durration: 60
+Simulation Total Prey in Simulation: 50
+Simulation Total Prey Left Alive: 50
+Simulation Total Prey Killed: 0
