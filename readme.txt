@@ -2,7 +2,7 @@ Predator Prey Simulations
 Created and Finalized 5/17/2020 by Jacob Hopkins
 Written in python 3.7
 
-INSTALL VIDEO: https://youtu.be/Z593_uKi9Rg
+INSTALL USE AND UNINSTALL VIDEO: https://youtu.be/Z593_uKi9Rg
 
 
 INSTALL STEPS:
