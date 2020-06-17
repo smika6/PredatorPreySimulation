@@ -1,6 +1,34 @@
 Predator Prey Simulations
 Created and Finalized 5/17/2020 by Jacob Hopkins
 Written in python 3.7
+
+INSTALL VIDEO:
+
+
+INSTALL STEPS:
+1. Visit: https://github.com/smika6/PredatorPreySimulation/
+
+2. Download the Zip Folder under 'Clone or Download'
+
+3. Open that Folder & Exctract the Contents to somewhere you know, Desktop?
+
+4. Visit: https://www.python.org/downloads/
+
+5. Download the install file for your system.
+
+6. Run the installer, on windows ensure you enable adding python to 'PATH'
+
+7. Open a Comand Prompt/Terminal
+
+8. Type: python -m pip install -U pip
+	( Refer to: https://pip.pypa.io/en/stable/installing/#upgrading-pip )
+
+9. Type: python -m pip install -U pygame
+	( Refer to: https://www.pygame.org/wiki/GettingStarted )
+
+10. Run the file 'predator_prey_simulation.py' 
+
+___________________________________________________________________________________________________
 Imports libraries:
 os
 pygame
