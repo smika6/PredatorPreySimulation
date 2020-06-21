@@ -26,7 +26,8 @@ INSTALL STEPS:
 9. Type: python -m pip install -U pygame
 	( Refer to: https://www.pygame.org/wiki/GettingStarted )
 
-10. Run the file 'predator_prey_simulation.py' 
+10. Run the file 'predator_prey_simulation.py'
+	Type: python -m predator_prey_simulation.py
 
 ___________________________________________________________________________________________________
 Imports libraries:
