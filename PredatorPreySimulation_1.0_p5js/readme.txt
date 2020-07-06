@@ -1,2 +1,3 @@
-sketch.js is the file I wrote for this simulation
-scsu.png is a school logo
+sketch.js                       - is the file I wrote for this simulation
+scsu.png                        - is a school logo
+biology_department_670b-1.jpg   - is the bio department tag
