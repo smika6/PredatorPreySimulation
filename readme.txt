@@ -1,8 +1,8 @@
 Predator Prey Simulations
-Finalized 5/17/2020 by Jacob Hopkins
+5/17/2020 by Jacob Hopkins
 Written in python 3.7
 
-NOW ONLINE WITH p5.js Proccessing with Javascript!
+NOW ONLINE WITH p5.js Proccessing with Javascript! 7/2020
 
 Here is the current running link 
 (code): 	https://editor.p5js.org/smikahopkins@gmail.com/sketches/C4S-JaY8K
